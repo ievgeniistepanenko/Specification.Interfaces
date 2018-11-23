@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>Softwaris.Specification.Interfaces</PackageId>
+    <Authors>Ievgenii Stepanenko</Authors>
+    <Company>Softwaris</Company>
+    <Description>Set of interfaces for Specification pattern</Description>
+    <PackageTags>Patterns</PackageTags>
+    <PackageProjectUrl>https://github.com/ievgeniistepanenko/Specification.Interfaces</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ievgeniistepanenko/Specification.Interfaces</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
